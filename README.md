@@ -12,7 +12,7 @@ This project focuses on building an data pipeline to analyze Netflix Dataset fro
 - [Results](#results)
 
 ## Architecture
-![architecture](images/architecture.jpg)
+![architecture](images/Project%20Architecture.jpg)
 
 ### Tech Stacks
 1. Programming Language - Python
