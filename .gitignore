@@ -1,2 +1,4 @@
 .env
 Task.docx
+.gitignore
+~$Task.docx
